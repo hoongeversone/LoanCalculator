@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="input_price">Price</string>
+    <string name="input_downpayment">Down Payment</string>
+    <string name="input_interestrate">Interest Rate(%)</string>
+    <string name="input_repayment">Repayment</string>
+    <string name="input_salary">Salary</string>
+    <string name="calculate">Calculate</string>
+</resources>
